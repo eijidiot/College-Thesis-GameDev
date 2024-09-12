@@ -1,0 +1,2 @@
+# College-Thesis-GameDev
+GAME SIMULATION FOR ALTERNATIVE LEARNING IN BASIC PYTHON - For Archival Purposes
