@@ -1,5 +1,7 @@
 # USER MANUAL
- A prototype of project way home
+
+FULL ZIP FILE DOWNLOAD GDRIVE LINK: https://drive.google.com/file/d/15Opfwx_I1QcEXE17XO_wYTymT2KIPcJc/view?usp=sharing
+
 Steps to install Python on Windows
 We have provided step-by-step instructions to guide you and ensure a successful installation. Whether you are new to programming or have some experience, mastering how to install Python on Windows will enable you to utilize this potent language and uncover its full range of potential applications.
 
