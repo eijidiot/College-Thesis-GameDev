@@ -1,6 +1,8 @@
 # USER MANUAL
 
-[https://drive.google.com/drive/folders/1EfZnfkVdwuLp9QZMQ099bId7deFgnWmt?usp=drive_link](FULL ZIP FILE DOWNLOAD GDRIVE LINK)
+[FULL ZIP FILE DOWNLOAD GDRIVE LINK](https://drive.google.com/drive/folders/1EfZnfkVdwuLp9QZMQ099bId7deFgnWmt?usp=drive_link)
+
+
 Steps to install Python on Windows
 We have provided step-by-step instructions to guide you and ensure a successful installation. Whether you are new to programming or have some experience, mastering how to install Python on Windows will enable you to utilize this potent language and uncover its full range of potential applications.
 
