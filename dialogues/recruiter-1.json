@@ -1,0 +1,6 @@
+[
+  { "name": "Player", "text": "Hi!" },
+  { "name": "Secretary", "text": "Hello, how may I help you?" },
+  { "name": "Player", "text": "I’m the new applicant" },
+  { "name": "Secretary", "text": "Ohh nice to meet you, may I know your name?" }
+]
