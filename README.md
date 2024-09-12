@@ -1,2 +1,2 @@
-# College-Thesis-GameDev
-GAME SIMULATION FOR ALTERNATIVE LEARNING IN BASIC PYTHON - For Archival Purposes
+# project-way-home
+ A prototype of project way home
